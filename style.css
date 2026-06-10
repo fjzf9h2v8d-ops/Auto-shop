@@ -1,0 +1,21 @@
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+}
+
+header{
+    background:black;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+.hero{
+    height:400px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:#444;
+    color:white;
+    font-size:30px;
+}
